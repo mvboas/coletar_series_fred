@@ -1,2 +1,2 @@
-# coletar_series_fred
+# Coletar Séries FRED
 Script para coletar séries do FRED
